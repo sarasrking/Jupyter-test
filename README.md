@@ -1,7 +1,5 @@
 # Jupyter-test
-My first go at Jupyter
+
+My first go at Jupyter Notebooks
 
 This is fun!
-
-It sure is :)
-
